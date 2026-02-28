@@ -96,6 +96,6 @@ The 30% overall failure rate was primarily attributable to position tracking dri
 
 ## Authors
 
-**Austin Li**, Seunghee Choi, Jun Kim, Matthew Chan
-University of Waterloo — Department of Mechanical and Mechatronics Engineering
+**Austin Li**, Seunghee Choi, Jun Kim, Matthew Chan<br>
+University of Waterloo — Department of Mechanical and Mechatronics Engineering<br>
 [GitHub](https://github.com) · [LinkedIn](https://www.linkedin.com) · a564li@uwaterloo.ca
